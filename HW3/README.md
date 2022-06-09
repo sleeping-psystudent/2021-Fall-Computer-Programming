@@ -33,7 +33,7 @@ A solved sudoku puzzle should satisfy following requirements:
 
 ## Requirements
 Given the template code provided by TA, you need to fulfill all the methods and functions in the code. The score/point for each method or function is explained in the docstring.
-### MUST READ
+#### MUST READ
 + You cannot use any third-party package such as numpy, pandas, and etc.
 + You can only use python primitive types and statements to solve the problem.
 + Do not copy others code. (0 scores for punishment)
