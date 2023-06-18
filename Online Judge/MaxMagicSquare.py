@@ -18,3 +18,8 @@ def solution(A):
                         if (sum(A[j][m:m+i])==diagonal):
                             return i
     pass
+
+"""
+solution([[5,1,3,1],[9,3,3,1],[1,3,3,8]])
+2
+"""
