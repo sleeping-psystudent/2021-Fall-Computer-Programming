@@ -23,3 +23,14 @@ def solution(X, Y):
         elif (values[1]-values[0], values[1]) in d:
             count += d[(values[0], values[1])]*d[(values[1]-values[0], values[1])]
     return int(count/2)
+
+if __name__ == "__main__":
+    X = [ int(value) for value in input().split(",") if len(value) > 0 ]
+    Y = [ int(value) for value in input().split(",") if len(value) > 0 ]
+    print(solution(X,Y))
+    
+"""
+1,2,3,1,2,12,8,4
+5,10,15,2,4,15,10,5
+10
+"""
