@@ -22,7 +22,6 @@
 |W12|Object-Oriented-Programming|[HW3](https://github.com/sleeping-psystudent/2021-Fall-Computer-Programming/tree/main/HW3)|9.0|
 |W13|Computer vision|||
 |W14|Network programming|||
-|W15|Network programming|||
 |W15|GUI programming|||
 |W16|Final Project Demo|||
 |W17|Final Project Demo||
